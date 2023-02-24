@@ -1,0 +1,1 @@
+# Repositório criado para salvar diagramas criados pelo Draw.io
